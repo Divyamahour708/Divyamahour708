@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamahour708&label=Profile%20views&color=0e75b6&style=flat" alt="divyamahour708" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyamahour708" alt="divyamahour708" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/33/20/b5/3320b511b6e6ac1a726dc237ece0509d.gif">
+
+
+- 📫 How to reach me **diivya708@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,5 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyamahour708&show_icons=true&locale=en" alt="divyamahour708" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyamahour708&" alt="divyamahour708" /></p>
-
 

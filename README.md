@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyamahour708&label=Profile%20views&color=0e75b6&style=flat" alt="divyamahour708" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyamahour708" alt="divyamahour708" /></a> </p>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/d5b6598c-f960-4a3a-9440-c65ad6761c12)">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNTQ2MjcsIm5iZiI6MTc0NzA1NDMyNywicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTEyVDEyNTIwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1ZjUxYzAwZTZkN2JlNWVjY2YxMjQ3MTk4NWI5ZGI3ODYwODdiNjFhNjA2YTQ1YWExMDA0YWJkOTM1ZTcxYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C6ZcNmu8izegAPE5pwRTnQ6vWf_1TLTqeDPIWBGAIos">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
